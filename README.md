@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm fuzzybootzz! 👋
 
-<!--
-**Fuzzybootzz/Fuzzybootzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+ Currently, I am completing an advanced degree in Information Systems with a passion for Database development and Management. I wish to work o. project collaboratively and independently to gain hands on experience. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Key Skills
+- **Project Management**: Agile, Process Optimization, Microsoft Project  
+- **Database Management**: SQL, SSIS visual studio, 
+- **Programming Languages**: Python, C#, Java  
+- **Cloud Platforms**: AWS  
+- **Office Tools**: Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)  
+
+
+
+
